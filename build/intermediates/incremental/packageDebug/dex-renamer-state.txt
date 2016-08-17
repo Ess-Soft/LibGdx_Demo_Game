@@ -1,0 +1,7 @@
+#Tue Aug 16 23:20:09 WEST 2016
+base.0=/home/team/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c798ac4ff187cd4b9753506af60ef5dae8e0da9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/team/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6037ec23dbdd072f2fdfe6698f506ce63807b0d9/classes.dex
+base.1=/home/team/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6037ec23dbdd072f2fdfe6698f506ce63807b0d9
+file.0=/home/team/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c798ac4ff187cd4b9753506af60ef5dae8e0da9/classes.dex

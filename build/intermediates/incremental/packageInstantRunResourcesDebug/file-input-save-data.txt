@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Aug 16 23:55:04 WEST 2016
+2.base=/home/team/test/android/build/intermediates/assets/debug
+5.file=/home/team/test/android/build/intermediates/assets/debug/droplet.png
+5.set=ASSET
+3.base=/home/team/test/android/build/intermediates/res/resources-debug.ap_
+6.file=/home/team/test/android/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+2.set=ASSET
+4.base=/home/team/test/android/build/intermediates/assets/debug
+7.file=/home/team/test/android/build/intermediates/assets/debug/rain.mp3
+7.set=ASSET
+count=9
+0.file=/home/team/test/android/build/intermediates/assets/debug/games_background.jpg
+5.base=/home/team/test/android/build/intermediates/assets/debug
+8.file=/home/team/test/android/build/intermediates/assets/debug/bucket.png
+4.set=ASSET
+6.base=/home/team/test/android/build/intermediates/res/resources-debug.ap_
+1.file=/home/team/test/android/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/home/team/test/android/build/intermediates/assets/debug
+2.file=/home/team/test/android/build/intermediates/assets/debug/badlogic.jpg
+6.set=ANDROID_RESOURCE
+0.base=/home/team/test/android/build/intermediates/assets/debug
+8.base=/home/team/test/android/build/intermediates/assets/debug
+3.file=/home/team/test/android/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/team/test/android/build/intermediates/res/resources-debug.ap_
+4.file=/home/team/test/android/build/intermediates/assets/debug/drop.wav
+8.set=ASSET
+0.set=ASSET
